@@ -13,7 +13,7 @@ This repository includes all material used during the course: Class notes, unedi
 | ---------- | ----------------- |
 | 28-10-2024 | [L01: Introduction. What is planning?]() |
 | 1-11-2024 | [L02: Discrete Planning]() |
-| 4-11-2024 | Holyday |
+| 4-11-2024 | Holiday |
 | 8-11-2024 | [L03: Configuration Space]() |
 | 11-11-2024 | [L03: Configuration Space]() | S1: Distances |
 | 15-11-2024 |  [L04: Sampling-based Planning]() |
