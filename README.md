@@ -9,6 +9,8 @@ This repository includes all material used during the course: Class notes, unedi
 
 ## Lectures
 
+| Date | Lecture |
+| ---------- | ----------------- |
 | 28-10-2024 | [L01: Introduction. What is planning?]() |
 | 1-11-2024 | [L02: Discrete Planning]() |
 | 4-11-2024 | Holyday |
