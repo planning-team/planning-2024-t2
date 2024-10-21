@@ -1,0 +1,3 @@
+[submodule "pyminisim"]
+	path = pyminisim
+	url = git@github.com:TimeEscaper/pyminisim.git
