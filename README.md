@@ -5,7 +5,8 @@ The Planning Algorithms in AI and Robotics course, during T2, 2024-2025.
 This repository includes all material used during the course: Class notes, unedited videos of the lectures and problem sets.
 
 > * Instructor: Gonzalo Ferrer
-> * Teaching Assistant: Aleksndr Kashirin
+> * Teaching Assistant: Aleksandr Kashirin
+> * Teaching Assistant: Artur Nigmatzynov
 
 ## Lectures
 
@@ -15,11 +16,11 @@ This repository includes all material used during the course: Class notes, unedi
 | 1-11-2024 | [L02: Discrete Planning]() |
 | 4-11-2024 | Holiday |
 | 8-11-2024 | [L03: Configuration Space]() |
-| 11-11-2024 | [L03: Configuration Space]() | S1: Distances |
+| 11-11-2024 | S1: Distances |
 | 15-11-2024 |  [L04: Sampling-based Planning]() |
 | 18-11-2024 |  S2: Sampling |
 | 22-11-2024 |  [L05: Discrete Optimal Planning]()|
-| 25-11-2024 |  [S3: MDP]() |
+| 25-11-2024 |  [S3: Optimal Control  in Planning & Navigation]() |
 | 29-11-2024 |  [L06: Markov Decision Process]() |
 | 2-12-2024 |  [L07: Decision Making and Games]() |
 | 6-12-2024 |  [L8: Modern Trends in Planning]() |
@@ -27,9 +28,9 @@ This repository includes all material used during the course: Class notes, unedi
 ## Problem Sets
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
- * PS1: Discrete planning (16-November-2023)
- * PS2: Sampling-based planning (27-November-2023)
- * PS3: MDP (11-December-2023)
+ * PS1: Discrete planning (14-November-2024)
+ * PS2: Sampling-based planning (28-November-2024)
+ * PS3: MDP (8-December-2024)
  
 ## Final Course Project
 
