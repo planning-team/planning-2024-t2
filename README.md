@@ -20,10 +20,10 @@ This repository includes all material used during the course: Class notes, unedi
 | 15-11-2024 |  [L04: Sampling-based Planning]() |
 | 18-11-2024 |  S2: Sampling |
 | 22-11-2024 |  [L05: Discrete Optimal Planning]()|
-| 25-11-2024 |  [S3: Optimal Control  in Planning & Navigation](https://docs.google.com/presentation/d/1ATa9nSanQ5nwlLBv-rl5FuOYHeAlGDbqpkwIu9VIM9o/edit?usp=sharing) |
-| 29-11-2024 |  [L06: Markov Decision Process]() |
-| 2-12-2024 |  [L07: Decision Making and Games]() |
-| 6-12-2024 |  [L8: Modern Trends in Planning]() |
+| 25-11-2024 |  [L06: Optimal Control  in Planning & Navigation](https://docs.google.com/presentation/d/1ATa9nSanQ5nwlLBv-rl5FuOYHeAlGDbqpkwIu9VIM9o/edit?usp=sharing) |
+| 29-11-2024 |  [L07: Markov Decision Process]() |
+| 2-12-2024 |  [L08: Reinforcement Learning]() |
+| 6-12-2024 |  [L09: Modern Trends in Planning]() |
 
 ## Problem Sets
 
