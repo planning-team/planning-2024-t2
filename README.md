@@ -23,14 +23,14 @@ This repository includes all material used during the course: Class notes, unedi
 | 25-11-2024 |  [L06: Optimal Control  in Planning & Navigation](https://docs.google.com/presentation/d/1ATa9nSanQ5nwlLBv-rl5FuOYHeAlGDbqpkwIu9VIM9o/edit?usp=sharing) |
 | 29-11-2024 |  [L07: Markov Decision Process]() |
 | 2-12-2024 |  [L08: Reinforcement Learning]() |
-| 6-12-2024 |  [L09: Modern Trends in Planning]() |
+| 6-12-2024 |  [L09: Games and Decision Making]() |
 
 ## Problem Sets
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
  * PS1: Discrete planning (14-November-2024)
  * PS2: Sampling-based planning (28-November-2024)
- * PS3: MDP (8-December-2024)
+ * PS3: MDP (11-December-2024)
  
 ## Final Course Project
 
