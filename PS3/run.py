@@ -14,7 +14,7 @@ environment_grid = data['environment']
 # (row index, colum index). In the image row corresponds to y, and colum to s.
 s_ini = (0,0)
 goal = (21,17)
-eta = 0.1 #Propagation probability (see utils)
+epsilon = 0.4 #Propagation probability (see utils)
 
 environment = Environment(environment_grid,s_ini,goal,epsilon)
 
@@ -53,7 +53,7 @@ if 0:
         # TODO, calculate a plan based on the policy calculated in VI or MDP
         #a = vi.policy(s)
         #a = mdp.policy(s)
-        # NOTE, for visualizations, the noise has been reduced, but you can try with a larger value
+        # NOTE, ONLY for visualizations, the noise has been reduced, but it should be different than for calculating the MDP
         s, _, safe_propagation, success = environment.step(action_space[a],epsilon=0.001)
         if not safe_propagation:
             print('Collision!!',s)
